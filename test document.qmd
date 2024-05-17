@@ -1,0 +1,13 @@
+---
+title: "test document"
+author: "Michelle Shteynberg"
+format: html
+editor: visual
+---
+
+here is some code:
+
+```{r}
+library(tidyverse)
+library(lterdatasampler)
+```
